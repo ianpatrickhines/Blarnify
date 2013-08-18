@@ -3,6 +3,8 @@ Blarnify
 
 The landing page for my short-lived freelance stint.
 
+This site was a fork of the SCRN theme by Rodrigo Borges. http://rodrigob.com/scrn.html
+
 =============================
 ADDITIONAL PERMISSIONS
 =============================
