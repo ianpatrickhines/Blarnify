@@ -5,6 +5,8 @@ The landing page for my short-lived freelance stint.
 
 This site was a fork of the SCRN theme by Rodrigo Borges. http://rodrigob.com/scrn.html
 
+The original source theme is governed by this license: http://themeforest.net/licenses/regular
+
 =============================
 ADDITIONAL PERMISSIONS
 =============================
